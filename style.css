@@ -15,13 +15,13 @@ img {
 }
 
 h1 {
-    color: white;
+    color: rgba(255, 255, 255, 0.815);
     margin-top: 31px;
     margin-bottom: 8px;
 }
 
 p {
-    color: white;
+    color: whitesmoke;
 }
 
 ul {
@@ -34,8 +34,8 @@ li {
 }
 
 a {
-    background-color: limegreen;
-    color: white;
+    background-color: rgb(201, 127, 191);
+    color: rgba(255, 255, 255, 0.815);
     padding: 15px;
     text-decoration: none;
     display: block;
@@ -48,11 +48,11 @@ a {
     }
     
     footer {
-        color: white;
+        color: rgba(255, 255, 255, 0.815);
     }
 
     .container {
-        background-color: black;
+        background-color: rgb(3, 3, 3);
         width: 320px;
         text-align: center;
         margin-top: 41px;
